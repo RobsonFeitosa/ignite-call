@@ -45,16 +45,10 @@ Acesse o link e veja o design do projeto no figma
 
 
 
+## Web 
 https://github.com/RobsonFeitosa/ignite-call/assets/13018367/4a5e390c-a3a0-4be0-907d-ff25b213062a
 
-
-## Web
-<div> 
-    <p>Descomplique sua agenda | Ignite Call - 15 August 2023 - Watch Video</p> 
-    <img style="max-width:800px;" src="https://www.dropbox.com/scl/fi/vauilmbf8e8wa8fwosonh/be529cdc-8cb7-4bcb-af48-747bf33adce3.webm?rlkey=gy61c2jwwe9lwspippq936ufz&dl=0"> 
-</div>
-___
-[<img src="https://www.dropbox.com/scl/fi/vauilmbf8e8wa8fwosonh/be529cdc-8cb7-4bcb-af48-747bf33adce3.webm?rlkey=gy61c2jwwe9lwspippq936ufz&dl=0" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+___ 
 
 ## 🚀 Como funciona
 
