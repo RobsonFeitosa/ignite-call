@@ -1,40 +1,20 @@
 <h1 align="center">
   Ignite Call
 </h1>
-
-<p align="center" margin-top="25px" >
-  <img alt="GitHub Language Count" src=".github/capa.png" />
-
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/exodogurgel/ignite-call" />
-
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/exodogurgel/ignite-call" />
-
-  <img alt="Github License" src="https://img.shields.io/github/license/exodogurgel/ignite-call" />
-  
-</p>
-___
+ 
 
 ## 💻 About
 
-Aplicativo de agendamento rápido conectado ao google calendário do usuário logado
+Aplicativo de agendamento rápido conectado ao google calendário do logado
 
-- [x] Authenticated routes in Next.js.
-- [x] Authentication with Next Auth.
-- [x] Validation with zod.
-- [x] Integration with Google Calendar
-- [x] Integration with Design System
-
-Although there are few features, concepts such as:
-- States
-- State immutability
-- Lists and keys in ReactJS
-- Properties
-- Componentization
-___
+- [x] Autenticação de rotas em Next.js.
+- [x] Autenticação com Next Auth.
+- [x] Validação com zod.
+- [x] Integração com Google Calendario
+- [x] Integração com Design System 
+- [x] Marcações SEO
 
 ## 🛠 Tech Stack
-
-This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Next](https://nextjs.org/)
@@ -53,45 +33,49 @@ This project was developed with the following technologies:
 - [React-query](https://react-query-v3.tanstack.com/)
 - [Dayjs](https://day.js.org/)
 - [Googleapis](https://www.npmjs.com/package/googleapis)
+- [Docker](https://hub.docker.com/)
+- [Mysql](https://hub.docker.com/_/mysql)
 ___
 
-## 🔖 Layout
-You can view the layout of the project via the link below:
+## 🔖 Layout 
+
+Acesse o link e veja o design do projeto no figma
 
 - [Layout Web](https://www.figma.com/community/file/1161274296921389678)
 
+
 ## Web
-<img alt="" src=".github/ignite-call.gif"/>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3b50b07b21bb40aba501493c4bf5c82e?sid=e49ee1cb-a24d-4257-bc46-5840b31dd54f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 ___
 
-## 🚀 How it works
 
-### Pre-requisites
-Before you begin, you will need to have the following tools installed on your machine: [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/). In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+## 🚀 Como funciona
 
-#### 🧭 Running the web application (Frontend)
+### Pre-requisitos
+Ferramentas instaladas em sua máquina: [Git] (https://git-scm.com/), [Node.js] (https://nodejs.org/en/). [Docker] (https://docs.docker.com/)
+
+Node: 18
+
+#### 🧭 Executando a aplicação (Frontend)
 
 ```bash
-# Clone this repository
-$ git clone git@github.com:exodogurgel/ignite-call.git
+# Clone do repositório
+$ git clone git@github.com:RobsonFeitosa/ignite-call.git
 
-# Access the project folder in your terminal
+# Acesso ao projeto pelo terminal
 $ cd ignite-call
 
-# Install the dependencies
+# Instalando dependências
 $ npm install
 
-# Run the application in development mode
+# Levantando banco
+$ docker-compose up -d
+
+# Criando migrações
+$ npx prisma migrate dev
+
+# Executando aplicação em desenvolvimento
 $ npm run dev
 
-# The application will open on the port: 3000 - go to http://localhost:3000
-```
-___ 
-
-## 📝 License
-
-This project is under the license [MIT](./LICENSE).
-
-Made with ❤️ by Êxodo Gurgel 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/exodo-gurgel/coffee-delivery)
-
----
+# O aplicativo pode ser acessado pela porta: 3000 - abra a url http://localhost:3000
+``` 
