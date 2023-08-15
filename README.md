@@ -16,7 +16,7 @@ ___
 
 ## 💻 About
 
-Application that connects your calendar and allows people to book appointments in their free time. The Design System was used creating in the previous project.
+Aplicativo de agendamento rápido conectado ao google calendário do usuário logado
 
 - [x] Authenticated routes in Next.js.
 - [x] Authentication with Next Auth.
@@ -86,20 +86,7 @@ $ npm run dev
 
 # The application will open on the port: 3000 - go to http://localhost:3000
 ```
-___
-
-## 🦸 Author
-
-<a href="https://blog.rocketseat.com.br/author/exodo/">
- <img style="border-radius: 50%;" src="https://github.com/exodogurgel/exodogurgel/blob/main/images/b11993be-e073-4a30-adae-2fee655ccdd5.png?raw=true" width="100px;" alt="Êxodo Gurgel"/> 
- <br />
- <sub><b>Êxodo Gurgel</b></sub></a> <a href="https://blog.rocketseat.com.br/author/exodo/" title="Rocketseat"></a> 🚀
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Exodo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/exodo-gurgel/)](https://www.linkedin.com/in/exodo-gurgel/) 
-[![Gmail Badge](https://img.shields.io/badge/-exodowellis@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:exodowellis@gmail.com)](mailto:exodowellis@gmail.com)
-
----
+___ 
 
 ## 📝 License
 
