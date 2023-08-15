@@ -1,6 +1,9 @@
 <h1 align="center">
   Ignite Call
 </h1>
+<p align="center" margin-top="25px" >
+  <img alt="GitHub Language Count" src=".github/capa.png" />
+</p>
  
 
 ## 💻 About
