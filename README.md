@@ -43,10 +43,11 @@ Acesse o link e veja o design do projeto no figma
 
 - [Layout Web](https://www.figma.com/community/file/1161274296921389678)
 
-
+___ 
 
 ## Web 
-https://github.com/RobsonFeitosa/ignite-call/assets/13018367/4a5e390c-a3a0-4be0-907d-ff25b213062a
+
+https://github.com/RobsonFeitosa/ignite-call/assets/13018367/f917018d-7461-4a7b-88e4-d0764a8f95e8
 
 ___ 
 
