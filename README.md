@@ -32,7 +32,7 @@ Aplicativo de agendamento rápido conectado ao google calendário do logado
 - [Radix-u](https://www.radix-ui.com/)
 - [Axios](https://www.axios.com/)
 - [Prisma](https://www.prisma.io/)
-- [@ignite-ui-exo/react](https://www.npmjs.com/package/@ignite-ui-exo/docs)
+- [@ignite-ui/react](https://www.npmjs.com/package/@ignite-ui/docs)
 - [React-query](https://react-query-v3.tanstack.com/)
 - [Dayjs](https://day.js.org/)
 - [Googleapis](https://www.npmjs.com/package/googleapis)
