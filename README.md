@@ -45,9 +45,12 @@ Acesse o link e veja o design do projeto no figma
 
 
 ## Web
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3b50b07b21bb40aba501493c4bf5c82e?sid=e49ee1cb-a24d-4257-bc46-5840b31dd54f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div> 
+    <p>Descomplique sua agenda | Ignite Call - 15 August 2023 - Watch Video</p> 
+    <img style="max-width:800px;" src="https://www.dropbox.com/scl/fi/vauilmbf8e8wa8fwosonh/be529cdc-8cb7-4bcb-af48-747bf33adce3.webm?rlkey=gy61c2jwwe9lwspippq936ufz&dl=0"> 
+</div>
 ___
-
+[<img src="https://www.dropbox.com/scl/fi/vauilmbf8e8wa8fwosonh/be529cdc-8cb7-4bcb-af48-747bf33adce3.webm?rlkey=gy61c2jwwe9lwspippq936ufz&dl=0" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 ## 🚀 Como funciona
 
